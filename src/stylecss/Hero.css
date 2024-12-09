@@ -1,0 +1,13 @@
+.hero{
+    text-align: center;
+}
+.hero a {
+    text-decoration: none;
+    color: red;
+
+}
+.hero a:hover {
+    text-decoration: underline;
+    color: #333;
+
+}
